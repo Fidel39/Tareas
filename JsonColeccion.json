@@ -1,0 +1,22 @@
+[
+{
+    "IdComic":"1",
+
+    "Edicion_1":"Titulo 1",
+    "Edicion_2":"Titulo 2",
+    "Edicion_3":"Titulo 3",
+    "Edicion_4":"Titulo 4",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+
+},{
+    "IdComic":"2",
+
+    "Edicion_1":"Titulo 5",
+    "Edicion_2":"Titulo 6",
+    "Edicion_3":"Titulo 7",
+    "Edicion_4":"Titulo 8",
+    "Imagen":"../Imagenes/Colecciones/SuperHijosVol1.jpg"
+}
+
+]
+
